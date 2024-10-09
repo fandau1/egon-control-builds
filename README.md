@@ -5,7 +5,7 @@ Aplikace slouží k ovládání inteligentní instalace systému Egon od firmy A
 
 ## Instalace
 Aplikaci je možné nainstalovat pro následující platformy.
-- Android (od Android API 21 = Android 5.0) - zatím nedostupné, aplikace je v předběžném testování
+- [Android - Google Play](https://play.google.com/store/apps/details?id=cz.emkocz.egoncontrol) (od Android API 21 = Android 5.0)
 - [Windows](https://github.com/fandau1/egon-control-builds/releases)
 
 
