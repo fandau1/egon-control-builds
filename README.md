@@ -1,7 +1,8 @@
 # Aplikace Egon Home
 Aplikace slouží k ovládání inteligentní instalace systému Egon od firmy ABB. Umožňuje vám vzdáleně ovládat a monitorovat vaši domácnost. Pomocí aplikace můžete ovládat světla, rolety, provádět akce, zobrazovat teplotu a mnoho dalšího.
 
-![emko-egon-cz-tab10-01](https://github.com/user-attachments/assets/3014094d-0f96-45f8-bde4-a1d480ccf869)
+<img width="400" alt="Image" src="https://github.com/user-attachments/assets/c738bd01-5f32-4fc7-bcbe-b889e23c71f0" />
+<img width="400" alt="Image" src="https://github.com/user-attachments/assets/36fcb010-7a63-4784-abc7-3513e53365f6" />
 
 ## Instalace
 Aplikaci je možné nainstalovat pro následující platformy.
