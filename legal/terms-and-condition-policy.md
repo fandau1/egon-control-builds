@@ -6,11 +6,19 @@ Upon downloading or utilizing the Application, you are automatically agreeing to
 
 The Service Provider is dedicated to ensuring that the Application is as beneficial and efficient as possible. As such, they reserve the right to modify the Application or charge for their services at any time and for any reason. The Service Provider assures you that any charges for the Application or its services will be clearly communicated to you.
 
+### Platform Availability and Pricing
+
+The Application is available for iOS through the Apple App Store and for Android through Google Play.
+
+The Android version available through Google Play is currently provided free of charge and does not offer in-app subscriptions. The iOS version includes a free demo. Access to features beyond the demo may be offered through an auto-renewing subscription purchased through the Apple App Store. Subscription availability, features, prices, and any applicable trial period are shown in the Application before purchase.
+
+The Service Provider may offer different features, prices, or access limits on different platforms. A purchase made on one platform may not be transferable to another platform unless expressly stated in the Application.
+
 The Application stores and processes personal data that you have provided to the Service Provider in order to provide the Service. It is your responsibility to maintain the security of your phone and access to the Application. The Service Provider strongly advise against jailbreaking or rooting your phone, which involves removing software restrictions and limitations imposed by the official operating system of your device. Such actions could expose your phone to malware, viruses, malicious programs, compromise your phone's security features, and may result in the Application not functioning correctly or at all.
 
 Please note that the Application utilizes third-party services that have their own Terms and Conditions. Below are the links to the Terms and Conditions of the third-party service providers used by the Application:
 
-- [RevenueCat](https://www.revenuecat.com/terms)
+- [RevenueCat](https://www.revenuecat.com/terms) (used for subscription management in the iOS version)
 
 Please be aware that the Service Provider does not assume responsibility for certain aspects. Some functions of the Application require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The Service Provider cannot be held responsible if the Application does not function at full capacity due to lack of access to Wi-Fi or if you have exhausted your data allowance.
 
@@ -24,33 +32,31 @@ The Service Provider may wish to update the application at some point. The appli
 
 ### Subscription Terms
 
-The Application offers auto-renewing subscription(s) for access to premium features. Payment will be charged to your Apple App Store or Google Play Store account at confirmation of purchase.
+The iOS version may offer auto-renewing subscription(s) for access to features beyond the free demo. Payment will be charged to your Apple App Store account at confirmation of purchase. The Android version currently does not offer subscriptions.
 
 Your subscription will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period, and the cost of renewal will be clearly identified.
 
 You can manage your subscriptions and turn off auto-renewal by going to your Account Settings after purchase:
 
 - For Apple App Store: Settings > Apple ID > Subscriptions
-- For Google Play Store: Google Play Store > Menu > Subscriptions
 
 Free trials, if offered, will automatically convert to a paid subscription unless canceled at least 24 hours before the end of the trial period.
 
 ### Refund Policy
 
-All payments and subscriptions made through the Application are handled via the Apple App Store or Google Play Store. As such, any requests for refunds must be submitted directly to the respective platform.
+All payments and subscriptions made through the Application are handled via the Apple App Store. As such, any requests for refunds must be submitted directly to the respective platform.
 
 To request a refund:
 
 - For Apple App Store: Visit [Apple Support – Request a refund](https://support.apple.com/HT204084)
-- For Google Play Store: Visit [Google Play – Request a refund](https://support.google.com/googleplay/answer/2479637)
 
-Please note that eligibility for a refund is determined by Apple or Google, not by the Service Provider.
+Please note that eligibility for a refund is determined by Apple, not by the Service Provider.
 
 ### Changes to These Terms and Conditions
 
 The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of 2025-08-01
+These terms and conditions are effective as of 2026-11-08
 
 ### Contact Us
 
